@@ -65,10 +65,6 @@ Pour afficher les informations sur le processus basées sur le nom :
 
 Assurez-vous d'avoir installé les exigences mentionnées ci-dessus avant de compiler et d'exécuter le programme.
 
-## Auteurs
-
-- Hokanosekai
-
 ## Références
 
 - [Process Status API](https://docs.microsoft.com/en-us/windows/win32/api/psapi/)
